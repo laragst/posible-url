@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "laragst",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268035129?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "laragst",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-19T21:28:48.465Z",
-    "updated_at": "2026-03-19T21:28:48.465Z"
-  }
+    "updated_at": "2026-03-19T21:28:48.465Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "7425bb2f-bbcd-4dce-8816-dea76d7089c2": {
+      "content": [],
+      "created_at": "2026-03-19T21:28:48.496Z",
+      "created_by": "laragst",
+      "title": "taller utdt",
+      "updated_at": "2026-03-19T21:28:48.496Z",
+      "updated_by": "laragst",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "7425bb2f-bbcd-4dce-8816-dea76d7089c2"
+  ]
 }
